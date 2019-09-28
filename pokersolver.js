@@ -1671,7 +1671,7 @@
       'wheelStatus': 0,
       'sfQualify': 5,
       'lowestQualified': null,
-      "noKickers": false
+      "noKickers": true
     },
     'jacksbetter': {
       'cardsInHand': 5,
